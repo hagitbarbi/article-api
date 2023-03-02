@@ -1,0 +1,9 @@
+{
+      "env":{
+"MONGO_USER":"hagit123",
+"MONGO_PASS":"hagit123"
+      }
+
+
+
+}
